@@ -1,9 +1,3 @@
-Below is a **ready-to-use, recruiter-friendly GitHub README** tailored exactly to your project.
-It’s written to sound **professional, analytical, and business-aware**, not like a notebook dump.
-You can copy-paste this directly into `README.md`.
-
----
-
 # 🎬 Netflix Content Strategy Analysis
 
 ### In-Depth Exploratory Data Analysis (EDA)
