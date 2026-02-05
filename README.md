@@ -204,23 +204,3 @@ The goal is not just visualization, but **business insight**—connecting data p
 This project demonstrates the ability to **translate raw data into strategic insights**, a core skill for **Data Analyst / Data Scientist roles**.
 
 ---
-
-## 📬 Contact
-
-If you’d like to discuss this project or explore collaboration opportunities:
-
-**[Your Name]**
-📧 Email: *[your.email@example.com](mailto:your.email@example.com)*
-🔗 LinkedIn: *your-linkedin-profile*
-💻 GitHub: *your-github-username*
-
----
-
-If you want, I can also:
-
-* Rewrite this to target **FAANG / Netflix-style analytics roles**
-* Add **resume bullet points**
-* Create a **portfolio description**
-* Optimize it for **ATS keywords**
-
-Just say the word 🚀
