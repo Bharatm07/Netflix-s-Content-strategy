@@ -175,11 +175,11 @@ The goal is not just visualization, but **business insight**—connecting data p
 
 ## 🛠️ Tools & Technologies
 
-* **Python**
-* **Pandas & NumPy** – Data manipulation
-* **Matplotlib & Seaborn** – Data visualization
-* **WordCloud & NLTK** – Text analysis
-* **Jupyter Notebook**
+**Python**
+- **Pandas & NumPy** – Data manipulation and feature engineering
+- **Matplotlib & Seaborn** – Data visualization
+- **WordCloud & NLTK** – Basic NLP and text analysis
+- **Google Colab** – Cloud-based Python notebook environment
 
 ---
 
