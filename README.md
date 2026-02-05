@@ -175,7 +175,7 @@ The goal is not just visualization, but **business insight**—connecting data p
 
 ## 🛠️ Tools & Technologies
 
-**Python**
+- **Python**
 - **Pandas & NumPy** – Data manipulation and feature engineering
 - **Matplotlib & Seaborn** – Data visualization
 - **WordCloud & NLTK** – Basic NLP and text analysis
